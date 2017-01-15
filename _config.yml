@@ -19,17 +19,17 @@ avatar: https://github.com/sriharsha0806/sriharsha/blob/master/images/profile.jp
 footer-links:
   dribbble:
   email: sriharsha0806@gmail.com
-  facebook: https://www.facebook.com/sriharshaannamaneni
+  facebook: sriharshaannamaneni
   flickr:
   github: sriharsha0806
   instagram:
-  linkedin: https://www.linkedin.com/in/annamaneni-sriharsha-13b77262?trk=nav_responsive_tab_profile_pic
+  linkedin: annamaneni-sriharsha
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: https://twitter.com/harsha0806
-  stackoverflow: http://stackoverflow.com/users/5426270/annamaneni-sriharsha# your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: harsha0806
+  stackoverflow: annamaneni-sriharsha# your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube:  # channel/<your_long_string> or user/<user-name>
-  googleplus: https://plus.google.com/u/0/117809379251337167084# anything in your profile username that comes after plus.google.com/
+  googleplus: #https://plus.google.com/u/0/117809379251337167084# anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
