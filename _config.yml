@@ -9,7 +9,7 @@ name: sriharsha
 description: Electrical Engineeer interested in AI
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/sriharsha0806/sriharsha/blob/master/images/profile.jpg
+avatar: "/images/profile.jpg"
 
 #
 # Flags below are optional
