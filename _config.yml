@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name:sriharsha
+name: sriharsha
 
 # Short bio or description (displayed in the header)
-description:Electrical Engineeer interested in AI
+description: Electrical Engineeer interested in AI
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/profile.jpg
 
 #
 # Flags below are optional
@@ -18,18 +18,18 @@ avatar:https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jek
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:sriharsha0806@gmail.com
-  facebook:https://www.facebook.com/sriharshaannamaneni
+  email: sriharsha0806@gmail.com
+  facebook: https://www.facebook.com/sriharshaannamaneni
   flickr:
-  github:github.com/sriharsha0806
+  github: github.com/sriharsha0806
   instagram:
-  linkedin:https://www.linkedin.com/in/annamaneni-sriharsha-13b77262?trk=nav_responsive_tab_profile_pic
+  linkedin: https://www.linkedin.com/in/annamaneni-sriharsha-13b77262?trk=nav_responsive_tab_profile_pic
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter:https://twitter.com/harsha0806
-  stackoverflow:http://stackoverflow.com/users/5426270/annamaneni-sriharsha# your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: https://twitter.com/harsha0806
+  stackoverflow: http://stackoverflow.com/users/5426270/annamaneni-sriharsha# your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube:  # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: https://plus.google.com/u/0/117809379251337167084# anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
