@@ -8,8 +8,6 @@ I have completed my graduation from Florida Institute of Technology. I majored i
 
 During my undergraduation, I worked on a student satellite project. For further information about the project check out the following link [parikshit.org](http://parikshit.org/)
 
-I am actively looking for opportunities in the field of Neuromorphic Computing. 
-
 ### Contact me
 
 [sannamaneni2015@my.fit.edu](mailto:sannamaneni2015@my.fit.edu)
