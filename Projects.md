@@ -11,3 +11,5 @@
 4. Project 4: [Advanced Lane Lines](https://github.com/sriharsha0806/CarND-Advanced-Lane-Lines)
 
 5. Project 5: [Vehicle Detection](https://github.com/sriharsha0806/CarND-Vehicle-Detection)
+
+6. Project 6: [Primary Object Detection](https://github.com/sriharsha0806/POD-Primary-Object-Detection)
